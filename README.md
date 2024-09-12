@@ -20,6 +20,8 @@ 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
 
 # Train
 
+data file is in 'experiments/tfns.parquet'
+
 ```
 python experiments/run_prediction.py train_configs/simcse/MetaLlama3.json
 
