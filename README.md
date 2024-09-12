@@ -11,7 +11,7 @@ pip install datasets
 pip install peft
 ```
 
-# Loggin to Hugging Face
+# Logging to Hugging Face
 
 ```
 huggingface-cli login
