@@ -20,7 +20,7 @@ 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
 
 # Train
 
-data file is in 'experiments/tfns.parquet'
+Data file is in 'experiments/tfns.parquet'. Dataset has two columns, 'text' and 'return', separately.
 
 ```
 python experiments/run_prediction.py train_configs/simcse/MetaLlama3.json
